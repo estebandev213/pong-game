@@ -4,7 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/include",
-                "C:/raylib/raylib/include"
+                "C:/raylib/raylib/src"
             ],
             "defines": [],
             "compilerPath": "C:/raylib/w64devkit/bin/g++.exe",
